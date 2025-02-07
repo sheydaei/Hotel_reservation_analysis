@@ -16,10 +16,10 @@ This project analyzes hotel reservation data to uncover patterns, trends, and ke
    - A **Jupyter Notebook** for data cleaning, preprocessing, and exploratory data analysis (EDA).  
    - Includes statistical insights and trend analysis using `pandas`, `numpy`, and `seaborn`.  
 
-2. **Tableau Dashboard** *(Primary Visualization Tool)*  
+2. **`Dashboard.twb`** *(Primary Visualization Tool)*  
    - Interactive visualizations displaying reservation trends, cancellations, and customer segmentation.  
 
-3. **`final project.pptx`** *(Backup Only)*  
+3. **`Dashboard's_backup.pptx`** *(Backup Only)*  
    - A PowerPoint file containing **static** visualizations in case Tableau is not accessible.  
 
 ---
